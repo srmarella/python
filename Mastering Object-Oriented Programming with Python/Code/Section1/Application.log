@@ -1,0 +1,35 @@
+DEBUG:root:log debug message
+INFO:root:log info message
+WARNING:root:log warning message
+ERROR:root:log error message
+CRITICAL:root:log critical message
+2019-05-21 16:41:22,941:root:DEBUG:log debug message
+2019-05-21 16:41:22,941:root:INFO:log info message
+2019-05-21 16:41:22,941:root:WARNING:log warning message
+2019-05-21 16:41:22,941:root:ERROR:log error message
+2019-05-21 16:41:22,941:root:CRITICAL:log critical message
+2019-05-21 16:41:57,063:root:DEBUG:log debug message
+2019-05-21 16:41:57,064:root:INFO:log info message
+2019-05-21 16:41:57,065:root:WARNING:log warning message
+2019-05-21 16:41:57,065:root:ERROR:log error message
+2019-05-21 16:41:57,066:root:CRITICAL:log critical message
+2019-05-21 16:43:33,279:__main__:DEBUG:log debug message
+2019-05-21 16:43:33,280:__main__:INFO:log info message
+2019-05-21 16:43:33,280:__main__:WARNING:log warning message
+2019-05-21 16:43:33,281:__main__:ERROR:log error message
+2019-05-21 16:43:33,281:__main__:CRITICAL:log critical message
+2019-05-21 16:44:01,658:Section1.Section1_Video_1_5_logging_logger:DEBUG:log debug message
+2019-05-21 16:44:01,659:Section1.Section1_Video_1_5_logging_logger:INFO:log info message
+2019-05-21 16:44:01,659:Section1.Section1_Video_1_5_logging_logger:WARNING:log warning message
+2019-05-21 16:44:01,659:Section1.Section1_Video_1_5_logging_logger:ERROR:log error message
+2019-05-21 16:44:01,659:Section1.Section1_Video_1_5_logging_logger:CRITICAL:log critical message
+2019-05-21 16:46:02,819:__main__:DEBUG:log debug message
+2019-05-21 16:46:02,819:__main__:INFO:log info message
+2019-05-21 16:46:02,820:__main__:WARNING:log warning message
+2019-05-21 16:46:02,820:__main__:ERROR:log error message
+2019-05-21 16:46:02,820:__main__:CRITICAL:log critical message
+2019-05-21 16:48:15,612:Section1.Section1_Video_1_7_logging_advanced_logger:DEBUG:log debug message
+2019-05-21 16:48:15,612:Section1.Section1_Video_1_7_logging_advanced_logger:INFO:log info message
+2019-05-21 16:48:15,613:Section1.Section1_Video_1_7_logging_advanced_logger:WARNING:log warning message
+2019-05-21 16:48:15,613:Section1.Section1_Video_1_7_logging_advanced_logger:ERROR:log error message
+2019-05-21 16:48:15,613:Section1.Section1_Video_1_7_logging_advanced_logger:CRITICAL:log critical message

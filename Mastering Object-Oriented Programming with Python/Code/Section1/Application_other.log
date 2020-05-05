@@ -1,0 +1,5 @@
+2019-05-21 16:48:15,614:__main__:DEBUG:log debug message
+2019-05-21 16:48:15,614:__main__:INFO:log info message
+2019-05-21 16:48:15,614:__main__:WARNING:log warning message
+2019-05-21 16:48:15,615:__main__:ERROR:log error message
+2019-05-21 16:48:15,615:__main__:CRITICAL:log critical message
